@@ -20,6 +20,11 @@ OLED is an organic light emitting diode. OLEDs are the future as they possess so
 * select the appropriate port.
 * Upload the code.
 
-##WORKING
+## WORKING
 
+![this is an image](https://github.com/bhooshan11/Displaying-clock-on-OLED/blob/main/oled%20time.jpg)
+
+I wrote MARVEL text on OLED screen
+
+![]()
 
