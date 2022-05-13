@@ -12,5 +12,14 @@ OLED is an organic light emitting diode. OLEDs are the future as they possess so
 ![this is an image](https://github.com/bhooshan11/Displaying-clock-on-OLED/blob/main/circuit%20diagram.png)
 
 ## PROCEDURE 
-* Open arduino IDE and write the [code]()
+* Open arduino IDE and write the code
+
+    code :(https://github.com/bhooshan11/Displaying-clock-on-OLED/blob/main/TASK_2_code.ino)
+* save and verify the code.
+* connect the ESP32 to computer.
+* select the appropriate port.
+* Upload the code.
+
+##WORKING
+
 
